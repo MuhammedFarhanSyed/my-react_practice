@@ -1,0 +1,21 @@
+h1{
+    font-weight: 690;
+}
+.row-h{
+    margin: 30px;
+}
+.row-add{
+margin-bottom: 50px;
+font-weight: 200;
+font-size: 1.5rem;
+}
+.row-l{
+    margin: 10px;
+    font-size: 1.28rem;
+}
+input{
+     width: 100%;
+}
+.tasks{
+    text-align: left;
+}
